@@ -27,7 +27,7 @@ def main():
         print("2 add a new task  ")
         print("3 remove a task  ")
         print("4 quit")
-        d =  input("what do u want to do  ")
+        d =  input("what do u want to do 1,2,3,4:  ")
         if d == "1":
             view_task()
         elif d == "2":
